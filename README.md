@@ -4,5 +4,6 @@ Put your name down here.
 ex) Student Number: 2017XXXXXX  
 Name: Gildong Hong
 
-Student Number:  
-Name: 
+Student Number:2016726020
+Name:LeeJaeSang
+
